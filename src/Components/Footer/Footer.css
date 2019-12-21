@@ -1,0 +1,113 @@
+.footer-logo {
+    padding-top: 15%;
+}
+
+.footer-bg {
+    background: #272727;
+}
+
+.footer-paragraph {
+    color: #ccc;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    padding-top: 15px;
+}
+
+.common-iconstyle {
+    font-size: 32px;
+    color: white;
+}
+
+.quicklinks-css {
+    color: white;
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 25px;
+    font-weight: bold;
+}
+
+.footer-listing {
+    display: block;
+}
+
+.footer-links a {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    padding: 4px 0px;
+}
+
+.footer-jobs-byindustry {
+    color: white;
+    margin-top: 25px;
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.jobsby-industry {
+    display: block;
+}
+
+.jobsby-industry a {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    padding: 4px 0px;
+}
+
+.article-heading {
+    margin-top: 25px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+
+.footer-imageonecontent a {
+    color: #fff;
+    font-size: 16px;
+}
+
+.footer-one, .footer-two, .footer-three {
+    display: flex;
+}
+
+.imageonedate {
+    color: #ccc;
+    font-style: italic;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.imageonedescription {
+    margin-top: -10px;
+}
+
+.footer-imagetwocontent a {
+    color: #fff;
+    font-size: 16px;
+}
+
+.footer-imagethreecontent a {
+    color: #fff;
+    font-size: 16px;
+}
+
+.copyright-icon {
+    font-size: 16px;
+    color: #888;
+}
+
+.copyright {
+    color: #888;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.copyright a {
+    color: #263bd6;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+}
+
