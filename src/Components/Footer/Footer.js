@@ -13,7 +13,7 @@ export default function Footer() {
                         <img src={require('../../public/assets/images/joblogo.png')} alt='footer-logo'></img>
                     </div>
                     <div className='footer-content col-md-12'>
-                        <p className='footer-paragraph'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et consequat elit. Proin molestie eros sed urna auctor lobortis. Integer eget scelerisque arcu. Pellentesque scelerisque pellentesque nisl, sit amet aliquam mi pellentesque fringilla. Ut porta augue a libero pretium laoreet. Suspendisse sit amet massa accumsan, pulvinar augue id, tristique tortor.</p>
+                        <p className='footer-paragraph'>Lorem ipsum dolor  amet, consectetur adipiscing elit. Etiam et consequat elit. Proin molestie eros sed urna auctor lobortis. Integer eget scelerisque arcu. Pellentesque scelerisque pellentesque nisl, sit amet aliquam mi pellentesque fringilla. Ut porta augue a libero pretium laoreet. Suspendisse sit amet massa accumsan, pulvinar augue id, tristique tortor.</p>
                     </div>
                     <div className='footer-icons col-md-12'>
                         <a className='text-decoration-none' href='#' target='blank'>
