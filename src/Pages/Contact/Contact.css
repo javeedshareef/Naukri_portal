@@ -1,0 +1,43 @@
+                .headers-tab span {
+                    color: #292929;
+                    font-size: 19px;
+                    margin-bottom: 10px;
+                }
+                
+                .headers-tab h2 {
+                    color: #292929;
+                    font-size: 40px;
+                    font-weight: 800;
+                    letter-spacing: 1px;
+                    margin: 0;
+                }
+                
+                .contact-box {
+                    border: 1px solid grey;
+                    width: 400px;
+                }
+                
+                .fullname {
+                    width: 100%;
+                    padding: 15px 10px;
+                    color: #8c8c8c;
+                    border: 1px solid #ddd;
+                }
+                
+                .email-tab {
+                    width: 100%;
+                    padding: 20px 20px;
+                    color: #8c8c8c;
+                    border: 1px solid #ddd;
+                }
+                
+                .submit-tab {
+                    background-color: #263bd6;
+                    border: 0 none;
+                    color: #fff;
+                    font-size: 16px;
+                    font-weight: 600;
+                    padding: 18px 40px;
+                    margin-top: 30px;
+                    float: right;
+                }

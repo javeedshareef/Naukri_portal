@@ -1,0 +1,133 @@
+    /* .card-title {
+        color: #000000;
+        font-weight: bold;
+    } */
+    
+    .img-style {
+        width: 100%;
+    }
+    
+    .full-time {
+        background: #6ACA00;
+        color: #fff;
+        font-size: 13px;
+        display: inline-block;
+        padding: 4px 6px;
+    }
+    
+    .cities {
+        color: #999999;
+        font-size: 14px;
+    }
+    /* .card-body {
+        padding: 20%;
+    }
+    
+    .commonstyle {
+        text-align: center;
+    } */
+    /* @media (min-width: 576px) and (max-width: 768px) {
+        .commonstyle {
+            text-align: left;
+        }
+    }
+    
+    @media (min-width: 769px) and (max-width: 1024px) {
+        .commonstyle {
+            text-align: left;
+        }
+    }
+    
+    @media (min-width: 1024px) and (max-width: 1440px) {
+        .laptoph5 {
+            margin-left: -5.5rem;
+            margin-top: 1rem;
+            font-size: 18px !important;
+            font-family: 'Roboto', sans-serif;
+        }
+    }
+    
+    @media (min-width: 1024px) and (max-width: 1440px) {
+        .laptopa {
+            margin-left: -1.5rem;
+            font-size: 14px !important;
+            font-family: 'Roboto', sans-serif;
+        }
+    }
+    
+    @media (min-width: 1024px) and (max-width: 1440px) {
+        .propsa {
+            font-size: 14px !important;
+            font-family: 'Roboto', sans-serif;
+            margin-top: -0.5rem;
+            margin-left: -3.2rem;
+        }
+    }
+    
+    @media (min-width: 1024px) and (max-width: 1440px) {
+        .location {
+            margin-left: -6.6rem;
+        }
+    } */
+    
+    .Featuredjobcard-card {
+        border: 1px solid #ececec;
+        background: white;
+        transition: all .5s;
+    }
+    
+    .Featuredjobcard-card img {
+        width: inherit;
+    }
+    
+    .Featuredjobcard-card h4 {
+        margin: unset;
+    }
+    
+    .Featuredjobcard-card h4 a {
+        font-size: 1.1rem;
+        font-weight: bold;
+        color: #000000
+    }
+    
+    .Featuredjobcard-card h4 a:hover {
+        color: #263bd6;
+    }
+    
+    .Featuredjobcard-card:hover {
+        border: 1px solid #263bd6;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    }
+    
+    .Featuredjobcard-card-subtitle a {
+        font-size: .9rem;
+    }
+    
+    .Featuredjobcard-card-apply-btn {
+        border: 1px solid #263bd6;
+        padding: .3em .5em;
+        text-decoration: none !important;
+        outline: none;
+        font-size: .9rem;
+        font-weight: 600;
+        color: #263bd6;
+        transition: all .5s;
+    }
+    
+    .Featuredjobcard-card-apply-btn:hover {
+        background: #263bd6;
+        color: white;
+    }
+    
+    @media (max-width: 575px) {
+        .Featuredjobcard-card-title,
+        .Featuredjobcard-card-subtitle,
+        .Featuredjobcard-card-jobtype {
+            text-align: center !important;
+        }
+    }
+    /* @media (min-width: 576px) and(max-width: 767px) {}
+    
+    @media (min-width: 768px) and(max-width: 991px) {}
+    
+    @media (min-width: 992px) {} */

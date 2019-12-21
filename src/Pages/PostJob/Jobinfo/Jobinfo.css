@@ -1,0 +1,19 @@
+    .options-tab {
+        padding: 10px 10px;
+        width: 100%;
+        background-color: white;
+        font-size: 18px;
+        border: 2px solid #ddd;
+        color: #8c8c8c;
+        font-family: "Open Sans" sans-serif;
+    }
+    
+    @media (min-width: 320px) and (max-width: 768px) {
+        .job-salary,
+        .job-status,
+        .job-position,
+        .job-nationality,
+        .job-gender {
+            margin-top: 20px;
+        }
+    }

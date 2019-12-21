@@ -1,0 +1,170 @@
+        .login-img {
+            background-image: url('/assets/images/login.jpg');
+            background-size: cover;
+        }
+        
+        .login-h1 {
+            font-size: 40px;
+            font-weight: bold;
+            color: #fff;
+            font-family: 'Roboto', sans-serif;
+            margin: unset;
+            /* margin-top: 4rem; */
+        }
+        /* .job-name {
+            padding-top: 3.2rem;
+            text-align: right;
+        } */
+        
+        .job-name a {
+            color: #fff;
+        }
+        
+        .job-name span {
+            color: #263bd6;
+        }
+        /* .bground {
+            padding-bottom: 5rem;
+        } */
+        
+        @media (max-width: 576px) {
+            .login-h1 {
+                text-align: center;
+                font-family: 'Roboto', sans-serif;
+                font-size: 35px;
+                font-weight: 600;
+            }
+            .testing {
+                margin-top: 65px;
+            }
+            .testingtwo {
+                margin-top: 10px;
+                text-align: center;
+            }
+            .bground {
+                padding-bottom: 3.5rem;
+            }
+        }
+        
+        @media (min-width:577px) and (max-width: 768px) {
+            .login-h1 {
+                padding-top: 2.5rem;
+                padding-bottom: 4rem;
+                text-align: center;
+            }
+            .testingtwo {
+                text-align: center;
+                padding-top: 60px;
+            }
+        }
+        
+        @media (min-width:769px) and (max-width: 1024px) {
+            .login-h1 {
+                padding-top: 70px;
+                padding-bottom: 4rem;
+            }
+            .testingtwo {
+                text-align: right;
+                padding-top: 90px;
+            }
+        }
+        
+        @media (min-width:1025px) and (max-width: 1440px) {
+            .login-h1 {
+                padding-top: 80px;
+                padding-bottom: 5rem;
+            }
+            .testingtwo {
+                text-align: right;
+                padding-top: 95px;
+            }
+        }
+        /* user login */
+        
+        .bgcolor {
+            background: #f0f0f0;
+        }
+        
+        .h5-heading {
+            font-size: 20px;
+            color: #555;
+            font-weight: 700;
+            margin-bottom: 15px;
+            font-family: 'Roboto', sans-serif;
+            text-align: center;
+        }
+        
+        .fb-icon {
+            color: #3b5998;
+            font-size: 40px;
+        }
+        
+        .plus-icon {
+            color: #dd4b39;
+            font-size: 40px;
+        }
+        
+        .twitter-icon {
+            color: #00aced;
+            font-size: 40px;
+        }
+        
+        .h5-headings {
+            font-size: 20px;
+            color: #555;
+            font-weight: 700;
+            margin-bottom: 15px;
+            text-align: left;
+        }
+        
+        .login-btn {
+            width: 100%;
+            background: #263bd6 !important;
+            color: #fff;
+            border-radius: 0;
+            padding: 10px;
+            font-size: 16px;
+            font-weight: 700;
+            text-transform: uppercase;
+        }
+        
+        .user-icon {
+            margin-top: 2rem;
+            margin-left: 2rem;
+            color: gray;
+        }
+        
+        .user-heading {
+            margin-top: 1.9rem;
+            text-align: center;
+            margin-right: 10px;
+            color: gray;
+        }
+        
+        .link-tab {
+            color: #263bd6 !important;
+        }
+        
+        @media (min-width: 1024px) and (max-width: 1440px) {
+            .testing {
+                justify-content: center;
+            }
+        }
+        
+        @media (min-width: 1441px) and (max-width: 2560px) {
+            .testing {
+                justify-content: center;
+            }
+        }
+        
+        @media (min-width: 376px) and (max-width: 2560px) {
+            .user {
+                justify-content: center;
+            }
+        }
+        
+        @media (min-width: 375px) and (max-width: 2560px) {
+            .user-heading {
+                padding-left: 0.5rem;
+            }
+        }

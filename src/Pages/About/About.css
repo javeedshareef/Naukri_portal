@@ -1,0 +1,18 @@
+    .about-wrapper {
+        font-size: 36px;
+        color: #263bd6;
+        font-weight: 700;
+        margin-bottom: 15px;
+    }
+    
+    .about-img {
+        width: 105%;
+    }
+    
+    .about-content {
+        margin-top: 6rem;
+    }
+    
+    .about-us {
+        background-color: #f8f8f8;
+    }

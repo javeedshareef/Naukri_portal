@@ -1,0 +1,20 @@
+    .nav-list {
+        margin-left: 30px;
+        font-size: 14px;
+    }
+    
+    .nav-item {
+        padding-left: 20px;
+    }
+    
+    .post:hover {
+        background-color: #263bd6;
+    }
+    
+    .jobseeker:hover {
+        background-color: #666666;
+    }
+    
+    .dropdown-item:hover {
+        background-color: #263bd6 !important;
+    }

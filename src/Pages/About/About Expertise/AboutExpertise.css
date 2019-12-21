@@ -1,0 +1,33 @@
+.about-us-img {
+    margin-top: 4rem;
+    width: 105%;
+}
+
+.about-expertise {
+    font-size: 36px;
+    color: #263bd6;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.about-para {
+    line-height: 24px;
+    font-size: 16px;
+    font-family: "Open Sans", sans-serif;
+    color: #333333;
+}
+
+.orderlist li::before {
+    content: '\f00c';
+    font-family: 'FontAwesome';
+    display: inline-block;
+    margin-right: 10px;
+    vertical-align: middle;
+    color: #82B440;
+}
+
+.list {
+    list-style-type: none;
+    font-family: "Open Sans", sans-serif;
+    color: #333333;
+}

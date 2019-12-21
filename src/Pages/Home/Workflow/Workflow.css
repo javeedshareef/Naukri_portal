@@ -1,0 +1,16 @@
+.heading-text {
+    font-size: 24px;
+    color: #888888;
+    font-weight: bold;
+}
+
+.worktitle {
+    font-weight: bold;
+    font-size: 48px;
+    color: black;
+}
+
+.span-text {
+    color: #263bd6;
+    font-weight: normal;
+}

@@ -1,0 +1,26 @@
+.Employer {
+    background-color: #f6f6f6;
+}
+
+.imagestyle {
+    width: 12%;
+    padding: 1em;
+}
+
+@media(min-width:320px) {
+    .imagestyle {
+        width: 45%;
+    }
+}
+
+@media(min-width:768px) {
+    .imagestyle {
+        width: 20%;
+    }
+}
+
+@media(min-width:1366px) {
+    .imagestyle {
+        width: 12%;
+    }
+}
